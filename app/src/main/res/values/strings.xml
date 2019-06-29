@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My ApplicationR</string>
+    <string name="button_1">食材1</string>
+    <string name="button_2">食材2</string>
+    <string name="button_3">食材3</string>
+    <string name="button_4">食材4</string>
+    <string name="button_5">食材5</string>
+    <string name="button_6">食材6</string>
+    <string name="text_r">冷蔵庫</string>
+    <string name="text_s">冷凍庫/冷蔵庫とびら</string>
+    <string name="button_a">冷凍庫食材</string>
+    <string name="button_b">冷蔵庫とびら食材</string>
+    <string name="view_sample">サンプルの遷移先です</string>
+    <string name="checkbox1">肉</string>
+    <string name="checkbox2">野菜</string>
+    <string name="checkbox3">果物</string>
+    <string name="resource">ここにダイアログから値が返ります</string>
+    <string name="dialog">賞味期限を登録</string>
+    <string name="button">戻る</string>
+    <string name="stringstring">　ここに日付が表示されます</string>
+    <string name="button_button">決定</string>
+    <string name="button10">消費期限・賞味期限を設定する</string>
+    <string name="textview3">TextView</string>
+    <string name="checkbox4">冷凍食品</string>
+    <string name="checkbox5">飲み物</string>
+    <string name="textview">収納する食材の種類を選んでください</string>
+</resources>
